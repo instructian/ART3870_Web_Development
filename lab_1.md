@@ -19,7 +19,8 @@ Create a web site diagram / flowchart (homepage, portfolio page, about with bio)
 Create a folder structure for your site (each project is linked from the portfolio and has its own folder with index.html and folders for css, js and images)
 Create basic index.html files for each folder
 Watch this video https://goo.gl/HDwg3F  and update all you pages with text and images
-Upload your files to github (drag and drop in chrome)
+Upload your files to github (drag and drop ** in chrome **)
+
 ## Advanced version
    ```
     Launch terminal
