@@ -1,7 +1,7 @@
 
 # ART 3870 – Web Development
 
-**Units: 4**
+** Units: 4 **
 
 _Contemporary professional practices in electronic arts. Students investigate venues for electronic artists, contexts for their own work, and produce a professional portfolio. Prerequisites: ART 3855 and ART 3860 or ART 3825 and ART 4200._
 
@@ -70,7 +70,7 @@ ___All work is received and graded on blackboard.___
 
 ## Attendance Policies
 
-**Once you miss a class it becomes very difficult to catch up so avoid missing classes!**
+** Once you miss a class it becomes very difficult to catch up so avoid missing classes! **
 
 ___Your grade starts dropping after 2 absences.___
 
@@ -103,7 +103,7 @@ By enrolling in this class the student agrees to use social media responsibly an
 
 Students will use the recordings solely in pursuit of their educational program, not for any commercial or non-educational purposes. Students will notify instructors and come to an agreement regarding any concerns professors have prior to engaging in any audio recording.  I will ask you to complete this form: https://www.csueastbay.edu/af/departments/as/files/docs/forms/audio-recorded-lectures-agreement.pdf
 
-**Students will not engage in any secret recordings of lectures or interactions.**
+** Students will not engage in any secret recordings of lectures or interactions. **
 
 ** Students will not share the recordings with other students or anyone else. **
 
@@ -113,11 +113,11 @@ Students will erase the recordings at the conclusion of the course (within 14 da
 
 By enrolling in this class the student agrees to uphold the standards of academic integrity described at http://www20.csueastbay.edu/academic/academicpolicies/academic-dishonesty.html
 
-** All code used from other sources must be commented as outlined in this document!**
+** All code used from other sources must be commented as outlined in this document! **
 
 https://integrity.mit.edu/handbook/writing-code
 
-**All images used from other sources must be cited in the same way in the comments and using the image source link as outlined here** http://writtent.com/blog/the-honor-code-of-a-noble-blogger-how-to-cite-pictures/
+** All images used from other sources must be cited in the same way in the comments and using the image source link as outlined here ** http://writtent.com/blog/the-honor-code-of-a-noble-blogger-how-to-cite-pictures/
 
 ## Accommodations for students with disabilities
 
