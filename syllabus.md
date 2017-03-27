@@ -60,18 +60,18 @@ Sign up for Lucid Chart and request the student education discount
     Participation - 10%
 ```
 
-___You are responsible to meet all the set deadlines or make prior arrangements.
+___You are responsible to meet all the set deadlines or make prior arrangements.___
 
-___Work turned in after the deadline is accepted at the sole discretion of the instructors.
+___Work turned in after the deadline is accepted at the sole discretion of the instructors.___
 
-___All work is received and graded on blackboard.
+___All work is received and graded on blackboard.___
 
 
 ## Attendance Policies
 
-**Once you miss a class it becomes very difficult to catch up so avoid missing classes!
+**Once you miss a class it becomes very difficult to catch up so avoid missing classes!**
 
-___Your grade starts dropping after 2 absences.
+___Your grade starts dropping after 2 absences.___
 
 ```
 3 late = 1 absence
@@ -81,6 +81,7 @@ ___Your grade starts dropping after 2 absences.
 ```
 
 ___Attendance is required for all classes, in the rare circumstance that you need to miss a class, you must inform the instructor and all your team members ahead of time via email to ian.pollock@csueastbay.edu with the course number, title and term and your name and netid in the title of the email.___
+
 ### formatted subject line : art3870-web development-spring2017-janedoe-eq1978
 
 ## Student Conduct
