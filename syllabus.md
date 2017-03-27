@@ -60,6 +60,7 @@ Sign up for Lucid Chart and request the student education discount
     Participation - 10%
 ```
 
+<<<<<<< Updated upstream
 ___You are responsible to meet all the set deadlines or make prior arrangements.___
 
 ___Work turned in after the deadline is accepted at the sole discretion of the instructors.___
