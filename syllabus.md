@@ -54,13 +54,9 @@ Sign up for Lucid Chart and request the student education discount
 ## Assessments / Grading Policies
 
 ```Homepage/Gallery - 20%
-
 Labs - 20%
-
 Projects - 40%
-
 Presentations - 20%
-
 Participation - 10%```
 
 
