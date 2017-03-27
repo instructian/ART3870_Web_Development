@@ -52,25 +52,26 @@ Sign up for JSBin
 Sign up for Lucid Chart and request the student education discount
 
 ## Assessments / Grading Policies
+```
+    Homepage/Gallery - 20%
+    Labs - 20%
+    Projects - 40%
+    Presentations - 20%
+    Participation - 10%
+```
 
-```Homepage/Gallery - 20%
-Labs - 20%
-Projects - 40%
-Presentations - 20%
-Participation - 10%```
+___ You are responsible to meet all the set deadlines or make prior arrangements.
 
+___ Work turned in after the deadline is accepted at the sole discretion of the instructors.
 
-___You are responsible to meet all the set deadlines or make prior arrangements.
+___ All work is received and graded on blackboard.
 
-Work turned in after the deadline is accepted at the sole discretion of the instructors.
-
-All work is received and graded on blackboard.___
 
 ## Attendance Policies
 
 Once you miss a class it becomes very difficult to catch up so avoid missing classes!
 
-*Your grade starts dropping after 2 absences.*
+* Your grade starts dropping after 2 absences. *
 
 3 late = 1 absence
 
