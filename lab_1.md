@@ -5,7 +5,7 @@
   1.1. Create a repository with a readme.md file and MIT licence
 2. Create Toggl accounthttps://toggl.com/
 3. Create a JSBin account
-4. Create a Lucid Chart account + request education discount
+4. Create a Lucid Chart account + request education discount https://www.lucidchart.com/pages/usecase/education-request
 5. Create a folder on the desktop called ** art3870-spring2017-yourname **
 6. Download and unzip http://foundation.zurb.com/sites/download.html/
 7. Move css/, js/ and index.html into the art3870 folder
